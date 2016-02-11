@@ -1,0 +1,24 @@
+_repo: The-Three-Impostors_50534
+creator:
+  authors:
+  - agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+  - agent_name: Lucas, Jean Maximilien
+    gutenberg_agent_id: '45962'
+    url: http://www.gutenberg.org/2009/agents/45962
+description: ''
+gutenberg_issued: '2015-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Three Impostors
+url: http://www.gutenberg.org/ebooks/50534
